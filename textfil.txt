@@ -1,0 +1,1 @@
+För att det ska funka måste du ta bort classerna så de ej förblir
