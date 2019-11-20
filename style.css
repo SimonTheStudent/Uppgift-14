@@ -1,0 +1,15 @@
+body{
+	background-color: lightgreen;
+}
+.row{
+	padding: 20px;
+	border-radius: 30px;
+	background-color: lightgrey;
+	border: 2px solid grey;
+}
+.nybg{
+	background-color: pink;
+}
+.greenbg{
+	background-color: lightgreen;
+}
